@@ -1,0 +1,13 @@
+通过pc端或者服务器端控制能够实现路由功能！
+硬路由：硬件
+光猫：调制解调器，主要是信号转换，
+路由器：主要是信号转发！
+iperf：c/s端，两个端之间互发数据包，可以用来测量时延丢包，或者发突发流量。
+AP：有线网络转为无线网络，接入的无线终端与原来的网络属于同一个子网。
+iperf 带宽测量 带宽占用 C/S 
+流量机器学习 weka工具 
+机器学习库 sklearn  深度学习 tensorflow
+CAID：各种网络工具。
+xshell连接linux服务器，只有shell命令
+easyconnect连接内网！
+windows远程桌面 win+R mstsc 可以连接linux系统 需要先配置linux系统 xrtp下载等https://blog.csdn.net/u011164819/article/details/80533380
